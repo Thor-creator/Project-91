@@ -1,0 +1,36 @@
+body
+{
+	background-color:rgb(16, 136, 96);
+}
+
+	.number1_div , .number2_div
+	{
+		background: grey;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#output
+{
+background: grey;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#btn1{
+	border-radius: 60px;
+	border-style:dotted;
+	border-width: 20px;
+	font-size: 20px;
+}
